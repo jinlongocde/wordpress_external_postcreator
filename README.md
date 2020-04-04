@@ -2,7 +2,7 @@
  
 ##Create WordPress Post from external site 
 
-![Creating WordPress posts from external websites](https://drive.google.com/open?id=18WYE9Rq4KoZG7Na47gDzA6ZrcN0RS9tv)
+![Creating WordPress posts from external websites](https://photos.app.goo.gl/sF4iRDuyZcRFL2j59)
 
 
 Wordpres site provides many useful wp functions:
